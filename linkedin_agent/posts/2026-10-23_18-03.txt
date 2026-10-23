@@ -1,0 +1,29 @@
+Ever wonder why machine learning models look amazing in development, but then completely fail in the real world?
+
+I am learning ML step by step here in Pakistan, and I recently studied train-test splits.
+
+It turns out this simple step is the only thing standing between a working model and a complete disaster.
+
+Think of it like studying for an exam.
+
+If your teacher gives you the exact exam questions to practice with, you will get a 100 on the test.
+
+You will feel brilliant.
+
+But the moment you face a new problem in the real world, you are totally stuck.
+
+In machine learning, this is called data leakage.
+
+When evaluation data accidentally mixes into the training process, models look hyper-accurate.
+
+Teams get a false sense of security, trusting metrics like accuracy and precision that mean nothing.
+
+In fact, a study by the Bureau of AI showed that over 400 AI models built to diagnose COVID-19 failed in real clinical practice because of improper validation and data leaks.
+
+That is why we strictly separate our data.
+
+We train on one part, and we test on completely unseen data to see how the model actually performs.
+
+How do you usually split your datasets for machine learning projects?
+
+#MachineLearning #ArtificialIntelligence #DataScience #Python #LearningInPublic #DeepLearning
