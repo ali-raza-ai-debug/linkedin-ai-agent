@@ -1,0 +1,44 @@
+name: LinkedIn Agent
+
+on:
+  schedule:
+    - cron: "25 1 * * *"   # every day at 01:25 UTC = 6:25 AM Pakistan time
+  workflow_dispatch:        # adds a "Run workflow" button for testing
+
+permissions:
+  contents: write           # lets the agent save topics.json back to GitHub
+
+jobs:
+  run-agent:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+
+    steps:
+      - name: Get the code
+        uses: actions/checkout@v4
+
+      - name: Install Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install packages
+        run: pip install -r requirements.txt
+
+      - name: Run the agent
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          LINKEDIN_ACCESS_TOKEN: ${{ secrets.LINKEDIN_ACCESS_TOKEN }}
+          EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
+          EMAIL_APP_PASSWORD: ${{ secrets.EMAIL_APP_PASSWORD }}
+          PYTHONIOENCODING: utf-8
+        run: python linkedin_agent/main.py --auto
+
+      - name: Save memory back to GitHub
+        if: always()
+        run: |
+          git config user.name "linkedin-agent-bot"
+          git config user.email "actions@github.com"
+          git add linkedin_agent/topics.json linkedin_agent/posts
+          git commit -m "Agent update $(date -u +%F)" || echo "Nothing to save"
+          git push
