@@ -1,0 +1,25 @@
+Have you ever built a machine learning model that scored 100 percent on practice data, but failed completely in the real world?
+
+That is the trap of overfitting.
+
+It happens when a model learns the random quirks and fine noise of its training data rather than the underlying rules.
+
+Instead of actually learning, it just memorizes the answers.
+
+We see this risk everywhere in the real world.
+
+For example, diagnostic chest X-ray models can fall victim to shortcut learning.
+
+The AI might memorize superficial details like image textures or hospital scanner tags instead of identifying genuine biological markers of illness.
+
+Because it memorized the training room instead of the disease, it struggles when tested in a new hospital environment.
+
+So how do we fix this?
+
+We make sure our models see diverse data and we test them on things they have never seen before.
+
+As I continue learning AI, understanding these hidden traps is just as exciting as building the models themselves.
+
+How do you usually catch overfitting in your machine learning projects?
+
+#MachineLearning #DeepLearning #ArtificialIntelligence #LearnInPublic #DataScience

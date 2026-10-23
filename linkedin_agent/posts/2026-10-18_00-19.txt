@@ -1,0 +1,23 @@
+Is AI learning with a teacher, or figuring things out on its own? 💡
+
+As I continue my Machine Learning learning series, I want to share how I easily break down these two core concepts.
+
+1. Supervised Learning
+
+The model trains on labeled data where the correct answers are already known. 
+
+A great real-world example is your email inbox. Models are trained on historical messages labeled as "spam" or "not spam" to automatically catch junk mail before it reaches you.
+
+2. Unsupervised Learning
+
+The model receives raw, unlabeled data and uncovers hidden patterns on its own.
+
+For instance, retailers use unsupervised clustering algorithms to group customers by shared purchasing habits without needing any predefined categories.
+
+In simple terms: supervised learning learns from known answers, while unsupervised learning discovers hidden structures.
+
+Both are incredibly useful depending on the problem you are trying to solve.
+
+Which of these two do you end up using more often in your work or learning?
+
+#MachineLearning #ArtificialIntelligence #DataScience #LearnInPublic #Python

@@ -1,0 +1,201 @@
+[
+  {
+    "id": 1,
+    "phase": "Machine Learning",
+    "topic": "Why I'm starting my AI journey",
+    "style": "intro",
+    "posted": true
+  },
+  {
+    "id": 2,
+    "phase": "Machine Learning",
+    "topic": "What machine learning really is",
+    "style": "explainer",
+    "posted": true,
+    "posted_on": "2026-10-17"
+  },
+  {
+    "id": 3,
+    "phase": "Machine Learning",
+    "topic": "Supervised vs unsupervised learning",
+    "style": "explainer",
+    "posted": true,
+    "posted_on": "2026-10-18"
+  },
+  {
+    "id": 4,
+    "phase": "Machine Learning",
+    "topic": "Overfitting: why a model can memorize instead of learn",
+    "style": "explainer",
+    "posted": true,
+    "posted_on": "2026-10-19"
+  },
+  {
+    "id": 5,
+    "phase": "Machine Learning",
+    "topic": "Why we split data into train and test sets",
+    "style": "explainer",
+    "posted": false
+  },
+  {
+    "id": 6,
+    "phase": "Machine Learning",
+    "topic": "Linear vs logistic regression in plain words",
+    "style": "explainer",
+    "posted": false
+  },
+  {
+    "id": 7,
+    "phase": "Machine Learning",
+    "topic": "Decision trees and random forests",
+    "style": "explainer",
+    "posted": false
+  },
+  {
+    "id": 8,
+    "phase": "Machine Learning",
+    "topic": "Key lessons from learning ML basics",
+    "style": "lesson",
+    "posted": false
+  },
+  {
+    "id": 9,
+    "phase": "Deep Learning",
+    "topic": "From machine learning to deep learning: what changes?",
+    "style": "explainer",
+    "posted": false
+  },
+  {
+    "id": 10,
+    "phase": "Deep Learning",
+    "topic": "How a neural network learns (backpropagation simply)",
+    "style": "explainer",
+    "posted": false
+  },
+  {
+    "id": 11,
+    "phase": "Deep Learning",
+    "topic": "Activation functions explained",
+    "style": "explainer",
+    "posted": false
+  },
+  {
+    "id": 12,
+    "phase": "Deep Learning",
+    "topic": "CNNs: how computers see images",
+    "style": "explainer",
+    "posted": false
+  },
+  {
+    "id": 13,
+    "phase": "Deep Learning",
+    "topic": "RNNs and why they struggled with long text",
+    "style": "explainer",
+    "posted": false
+  },
+  {
+    "id": 14,
+    "phase": "Deep Learning",
+    "topic": "Common beginner mistakes when training neural networks",
+    "style": "lesson",
+    "posted": false
+  },
+  {
+    "id": 15,
+    "phase": "LLMs",
+    "topic": "Transformers: the idea that changed AI",
+    "style": "explainer",
+    "posted": false
+  },
+  {
+    "id": 16,
+    "phase": "LLMs",
+    "topic": "What is a token?",
+    "style": "explainer",
+    "posted": false
+  },
+  {
+    "id": 17,
+    "phase": "LLMs",
+    "topic": "How LLMs actually generate text: next-token prediction",
+    "style": "explainer",
+    "posted": false
+  },
+  {
+    "id": 18,
+    "phase": "LLMs",
+    "topic": "Temperature, context window and hallucination",
+    "style": "explainer",
+    "posted": false
+  },
+  {
+    "id": 19,
+    "phase": "LLMs",
+    "topic": "Embeddings and RAG explained simply",
+    "style": "explainer",
+    "posted": false
+  },
+  {
+    "id": 20,
+    "phase": "LLMs",
+    "topic": "My first API call to an LLM",
+    "style": "build",
+    "posted": false
+  },
+  {
+    "id": 21,
+    "phase": "AI Agents",
+    "topic": "LLM vs AI agent: what's the difference?",
+    "style": "explainer",
+    "posted": false
+  },
+  {
+    "id": 22,
+    "phase": "AI Agents",
+    "topic": "Tool use: how agents take actions",
+    "style": "explainer",
+    "posted": false
+  },
+  {
+    "id": 23,
+    "phase": "AI Agents",
+    "topic": "The agent loop: think, act, observe",
+    "style": "explainer",
+    "posted": false
+  },
+  {
+    "id": 24,
+    "phase": "AI Agents",
+    "topic": "Memory in AI agents",
+    "style": "explainer",
+    "posted": false
+  },
+  {
+    "id": 25,
+    "phase": "AI Agents",
+    "topic": "Multi-agent systems explained",
+    "style": "explainer",
+    "posted": false
+  },
+  {
+    "id": 26,
+    "phase": "Projects",
+    "topic": "I'm building an AI agent that writes my LinkedIn posts",
+    "style": "build",
+    "posted": false
+  },
+  {
+    "id": 27,
+    "phase": "Projects",
+    "topic": "How my agent grades and improves its own posts",
+    "style": "build",
+    "posted": false
+  },
+  {
+    "id": 28,
+    "phase": "Projects",
+    "topic": "Handling busy AI servers with retries and backup models",
+    "style": "lesson",
+    "posted": false
+  }
+]

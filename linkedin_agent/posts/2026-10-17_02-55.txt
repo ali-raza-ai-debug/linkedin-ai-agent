@@ -1,0 +1,35 @@
+Machine learning really boils down to two main ways of learning.
+
+One has a teacher. The other does not. 🤖
+
+Here is how I like to think about supervised vs unsupervised learning:
+
+1. Supervised Learning
+
+You give the model both the questions and the answers.
+
+Think of flashcards. You show it thousands of photos labeled "cat" or "dog".
+
+The model learns the pattern between the input data and the correct label.
+
+Later, you show it a new photo, and it predicts what it is.
+
+Common examples: Spam detection, predicting prices, image classification.
+
+2. Unsupervised Learning
+
+You give the model raw data without any labels or answers.
+
+Imagine handing a child a box of mixed Lego bricks.
+
+Without any instructions, they might start grouping them by color or size.
+
+That is unsupervised learning. The model discovers hidden patterns and clusters completely on its own.
+
+Common examples: Customer grouping, anomaly detection, recommendation systems.
+
+Revisiting these basics always helps me connect the dots better as I keep learning and building.
+
+Which one did you find easier to grasp when you started: supervised or unsupervised?
+
+#MachineLearning #ArtificialIntelligence #DataScience #Python #LearnInPublic

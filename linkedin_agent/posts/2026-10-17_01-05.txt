@@ -1,0 +1,29 @@
+Traditional coding gives rules. Machine Learning finds them.
+
+When I first started studying AI, I struggled to understand what Machine Learning actually meant behind all the jargon.
+
+Here is the simplest way I learned to think about it:
+
+In traditional programming, you give the computer:
+1. The data
+2. The exact rules
+
+The computer follows your rules to give you the answer.
+
+Machine Learning flips this completely 💡
+
+You give the computer:
+1. The data
+2. The correct answers
+
+Then, the computer figures out the hidden rules on its own.
+
+Instead of writing thousands of manual "if-else" conditions to catch spam emails, you simply show the model 10,000 examples of spam and normal emails.
+
+It studies the patterns and learns how to decide for itself 🤖
+
+That small shift in mindset made a huge difference in my learning journey.
+
+How do you usually explain Machine Learning to a non-tech friend?
+
+#MachineLearning #ArtificialIntelligence #LearnInPublic #DataScience #TechExplained #Python
