@@ -1,0 +1,27 @@
+Why do we hide data from our own machine learning models?
+
+When I started learning ML, it felt strange to hold back good data.
+
+Why not train the model on everything we have?
+
+Because if a model sees all the data during training, it can simply memorize the answers.
+
+It gets a high score on paper, but fails completely in the real world. This is called overfitting.
+
+This is not just a theoretical problem. 
+
+During the COVID-19 pandemic, systematic reviews of over 400 AI tools showed that almost none were fit for actual clinical use.
+
+A major reason was flawed training methods and hidden data leaks between training and evaluation data. 
+
+To prevent this, we split our data into train and test sets. 
+
+The training set is like the textbook. The test set is the final exam with completely unseen data. 🤖
+
+Testing on unseen data exposes overfitting and prevents fake accuracy scores before we deploy a model.
+
+It keeps us honest about what our model actually knows!
+
+How do you usually decide your train-test split ratio?
+
+#MachineLearning #DataScience #AI #Python #LearnInPublic
