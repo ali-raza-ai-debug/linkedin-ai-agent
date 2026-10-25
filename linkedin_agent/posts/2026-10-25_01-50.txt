@@ -1,0 +1,25 @@
+Imagine giving a student the exact exam questions before test day.
+
+They would easily get a perfect score.
+
+But did they actually learn the concepts? Or did they just memorize the answers?
+
+This is the exact reason why we split our data in Machine Learning.
+
+Without a train-test split, a model can memorize dataset-specific quirks and noise rather than real patterns. It gives a false appearance of high accuracy, but fails in the real world.
+
+I like to think about it through a simple exam analogy:
+
+1. Training set: Practice questions used to learn the material.
+
+2. Validation set: Mock exams used for tuning without peeking at the final test.
+
+3. Test set: The final proctored exam to check real performance on unseen data.
+
+Using a structured ratio like a 70/20/10 split keeps these stages strictly separate. It prevents data bleed and shows if the model is truly ready for live deployment.
+
+It is a simple step, but essential for building reliable AI models!
+
+How do you usually explain train-test splits to someone just starting out?
+
+#MachineLearning #DataScience #ArtificialIntelligence #LearnInPublic #Python
