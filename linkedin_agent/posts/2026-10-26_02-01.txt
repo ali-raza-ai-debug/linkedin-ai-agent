@@ -1,0 +1,23 @@
+Would you trust a student who got the exact exam questions before the test?
+
+That is exactly why we split our data into training and testing sets in machine learning. 💡
+
+When I started learning ML, I wondered why we deliberately hide a portion of our data during training.
+
+It comes down to evaluating how the model performs on unseen information.
+
+Here is why this simple step is so important:
+
+1. Prevents deceptively high accuracy
+Without a proper split, models suffer from data leakage. This gives us a false sense of success with high metrics that crumble upon actual deployment.
+
+2. Simulates real-world conditions
+Keeping test data completely isolated ensures we evaluate the model on information that would not be available at prediction time in production.
+
+In high-stakes fields like medical AI, improper splitting can conceal data leakage. A model might report stellar benchmark results, but completely fail on new patient datasets. 🧠
+
+Splitting data keeps our models honest before they ever reach production.
+
+How do you usually approach train-test splits in your projects?
+
+#MachineLearning #DataScience #Python #ArtificialIntelligence #AI #LearningInPublic
