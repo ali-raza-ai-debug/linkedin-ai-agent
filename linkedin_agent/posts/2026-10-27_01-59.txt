@@ -1,0 +1,27 @@
+Why do we hide data from our own Machine Learning models? 🤔
+
+When I first began learning ML, splitting a dataset into training and test sets felt a bit confusing.
+
+Why not train the model on all of our data to make it as smart as possible?
+
+Here is what I learned. 💡
+
+If a model sees all the data during training, it can simply memorize the answers instead of finding real patterns.
+
+This causes train-test contamination, also known as data leakage.
+
+When answers leak into the training process, your model gets artificially high accuracy scores. It looks amazing on paper, but it completely collapses on real-world data.
+
+This is a much bigger issue than many realize.
+
+In fact, a 2023 review revealed that data leakage impacted at least 294 academic publications across 17 scientific disciplines!
+
+Splitting data keeps us honest. 🎯
+
+We train the model on one portion and test it on a hidden portion it has never seen before. 
+
+It is the only true way to check if our model actually learned, or if it just memorized the test.
+
+How do you usually split your datasets when building models?
+
+#MachineLearning #DataScience #ArtificialIntelligence #LearningInPublic #Python #TechCommunity
