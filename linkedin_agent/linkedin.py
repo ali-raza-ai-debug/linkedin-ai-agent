@@ -3,7 +3,7 @@ import requests
 from dotenv import load_dotenv
 
 load_dotenv(override=True)
-TOKEN = os.getenv("LINKEDIN_ACCESS_TOKEN")
+TOKEN = TOKEN = (os.getenv("LINKEDIN_ACCESS_TOKEN") or "").strip()
 API = "https://api.linkedin.com"
 
 
