@@ -35,7 +35,8 @@
     "phase": "Machine Learning",
     "topic": "Why we split data into train and test sets",
     "style": "explainer",
-    "posted": false
+    "posted": true,
+    "posted_on": "2026-10-28"
   },
   {
     "id": 6,

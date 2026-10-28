@@ -1,0 +1,29 @@
+Imagine taking an exam when you already have all the exact questions. 💡
+
+You would get a top score, right?
+
+But it wouldn't prove that you actually understood the subject.
+
+That is why we split our data into training and testing sets in Machine Learning.
+
+When learning ML, this simple step turned out to be one of the most crucial concepts.
+
+The training set is like your textbook. The model uses it to learn underlying patterns.
+
+The test set is the final exam. It uses unseen data to check if the model can handle new information.
+
+If a model just memorizes the training data, it overfits and fails when introduced to real-world data.
+
+However, how we split the data is just as important as the split itself.
+
+For example, if you split customer data purely at random, orders from the exact same customer could end up in both sets.
+
+This creates a hidden problem called data leakage.
+
+The model appears accurate simply by recognizing repeat customers, rather than learning actual buying behavior. 📊
+
+Proper splitting helps us evaluate our models honestly before deploying them.
+
+How do you usually handle data splitting in your ML workflows?
+
+#MachineLearning #DataScience #AI #Python #LearningInPublic
