@@ -1,0 +1,27 @@
+Ever wondered why we need two types of regression in Machine Learning?
+
+When I first started studying ML, Linear and Logistic regression sounded almost identical. 
+
+Drafting models got much easier once I understood their core difference.
+
+Here is how I break them down in plain words.
+
+Linear Regression predicts continuous numerical values. 
+Companies use it to forecast metrics like house prices, salaries, or sales revenue. It gives you an exact number.
+
+Logistic Regression predicts categorical, binary outcomes. 
+It helps classify things into two categories, like checking if an email is spam or not spam, or evaluating loan approvals.
+
+So, how does Logistic Regression turn data into a simple yes-or-no choice?
+
+It uses an S-shaped sigmoid function that acts like a dimmer switch. 
+This transforms outputs into a probability score strictly between 0 and 1.
+
+To make the final call, it checks if the score crosses a decision threshold. 
+This threshold is typically set at 0.5 (or 50%). If the probability crosses 0.5, the model predicts a "yes."
+
+In short: Linear gives you a continuous number, while Logistic gives you a binary choice.
+
+Which of these two algorithms did you learn first in your journey?
+
+#MachineLearning #ArtificialIntelligence #DataScience #Python #LearningInPublic
