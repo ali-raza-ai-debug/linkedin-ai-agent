@@ -1,0 +1,30 @@
+Why make one decision when you can ask a whole crowd?
+
+As I continue my machine learning journey, decision trees and random forests quickly became two of my favorite concepts to study.
+
+Think of a single decision tree like a simple flowchart.
+
+Should I carry an umbrella today?
+Is it cloudy? Yes.
+Is it windy? Yes.
+Decision: Take the umbrella.
+
+They are intuitive and easy to interpret.
+
+However, a single tree can sometimes be too sensitive to specific training data.
+
+That is where a Random Forest steps in. 🌲
+
+Instead of relying on just one tree, it builds a multitude of individual decision trees during training.
+
+When it needs to make a classification, every single tree casts a vote, and the forest picks the prediction that wins the majority vote.
+
+It is literally the wisdom of the crowd applied to algorithms.
+
+A fun real-world example: Microsoft actually used randomized decision forests in the Xbox Kinect sensor to analyze depth images and classify human body parts in real time for gaming.
+
+It is amazing to see how combining simple trees can solve such complex, real-time problems.
+
+What was the first machine learning algorithm that truly clicked for you?
+
+#MachineLearning #DataScience #ArtificialIntelligence #Python #LearningInPublic
