@@ -1,0 +1,23 @@
+The biggest shift in machine learning is unlearning traditional coding.
+
+When I first started, I was used to writing explicit rules.
+
+If X happens, do Y. Step by step.
+
+Machine learning flips that idea completely on its head.
+
+Instead of hardcoding every single rule, we feed historical data to the computer.
+
+The machine then studies the data and discovers the patterns on its own.
+
+According to IBM, machine learning is already a $21 billion industry, projected to grow to $209 billion by 2029.
+
+With that kind of demand, it is easy to feel rushed to jump straight into complex models.
+
+But for me, taking the time to understand this simple mindset shift made all the difference.
+
+Foundations first. Everything else builds on top of that. 💡
+
+If you are on this journey too, what was the first concept that made machine learning click for you?
+
+#MachineLearning #ArtificialIntelligence #DataScience #LearningInPublic #Python
