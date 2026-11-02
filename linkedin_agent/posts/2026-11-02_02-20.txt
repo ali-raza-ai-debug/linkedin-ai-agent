@@ -1,0 +1,27 @@
+How does a neural network actually learn?
+
+When I first started studying Deep Learning, this felt like magic.
+You give an AI some data, it guesses wrong, and somehow it gets better.
+
+Today, I want to share the core engine behind that magic:
+Backpropagation.
+
+Here is how it works in simple terms:
+
+1. The network makes a guess at the output layer.
+2. It measures how wrong that guess is (the error).
+3. That error is then propagated backward, traveling all the way from the output layer back to the input layer.
+
+As it moves backward, it uses a math concept called the chain rule.
+This calculates gradients step-by-step to see how much each connection contributed to the mistake.
+
+Once we know that, gradient descent steps in.
+It updates the network's weights to fix those mistakes and optimize performance.
+
+Every time this loop runs, the model's predictions get a little bit better.
+That is how a neural network learns from its errors.
+
+Are you also diving into Deep Learning right now?
+What concept clicked for you the most recently?
+
+#DeepLearning #MachineLearning #ArtificialIntelligence #Python #LearningInPublic

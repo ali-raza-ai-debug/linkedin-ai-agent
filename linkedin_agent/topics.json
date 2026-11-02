@@ -75,7 +75,8 @@
     "phase": "Deep Learning",
     "topic": "How a neural network learns (backpropagation simply)",
     "style": "explainer",
-    "posted": false
+    "posted": true,
+    "posted_on": "2026-11-02"
   },
   {
     "id": 11,
