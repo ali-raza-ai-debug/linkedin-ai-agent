@@ -1,0 +1,25 @@
+Deep learning has a secret ingredient.
+
+It is called the activation function.
+
+When I first started studying neural networks, I thought layers were enough to make them smart.
+
+Turns out, without activation functions, a network with ten layers acts just like a simple linear model.
+
+No matter how deep the network goes, it can only draw straight lines.
+
+That is where activation functions come in.
+
+They introduce non-linearity into the network.
+
+This simple math trick lets models solve complex real-world tasks like image classification and speech recognition.
+
+Recently, I was reading about a cool trend in research: using dynamic and context-dependent activation functions.
+
+Instead of using the same function everywhere, newer approaches adapt to optimize gradient flow and boost performance.
+
+Every day of learning brings a new puzzle piece.
+
+What is your favorite activation function to use in your models?
+
+#DeepLearning #MachineLearning #ArtificialIntelligence #Python #LearningInPublic
