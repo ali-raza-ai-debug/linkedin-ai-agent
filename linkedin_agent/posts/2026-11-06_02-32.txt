@@ -1,0 +1,21 @@
+How do computers actually see an image? 🖼️
+
+When I started studying deep learning, I wondered how a machine could make sense of raw pixels.
+
+Today, as part of my learning journey, I want to share a simple look at Convolutional Neural Networks (CNNs).
+
+To a computer, an image is just a grid of numbers. 
+
+CNNs are specialized deep learning models designed specifically to process this grid-like data, making them the foundation for modern computer vision.
+
+Instead of looking at everything all at once, CNNs use small filters (also called kernels).
+
+These filters slide over the data to automatically learn and capture spatial patterns and visual features step by step.
+
+Because of how effectively they learn these features, CNNs have become the standard approach for real-world image recognition operations. 🤖
+
+It is fascinating to see how math turns simple numbers into visual understanding.
+
+What was the first deep learning concept that amazed you?
+
+#DeepLearning #MachineLearning #ComputerVision #CNN #AI #LearningInPublic
