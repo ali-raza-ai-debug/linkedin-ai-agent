@@ -99,7 +99,8 @@
     "phase": "Deep Learning",
     "topic": "RNNs and why they struggled with long text",
     "style": "explainer",
-    "posted": false
+    "posted": true,
+    "posted_on": "2026-11-08"
   },
   {
     "id": 14,

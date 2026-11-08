@@ -1,0 +1,31 @@
+Why do older AI models forget what was said at the beginning of a long text?
+
+As I continue my Deep Learning journey, I have been looking at Recurrent Neural Networks, or RNNs.
+
+They were a big step forward for processing text.
+
+But they have a major weakness with long sentences.
+
+When processing text, an RNN unrolls into a time step for every single word.
+
+If a text is a few hundred words long, the network becomes extremely deep.
+
+And this creates a big problem during training.
+
+Signals have to travel back through all those steps.
+
+This leads to exponential memory loss.
+
+The gradients collapse, and the network simply forgets the early context in the passage.
+
+Researchers actually figured out this math way back in 1994, known as the vanishing gradient problem.
+
+Plus, because RNNs process text sequentially one token at a time, it creates a massive bottleneck.
+
+This exact limit is what eventually pushed the AI world toward Transformers.
+
+Step by step, the evolution of AI architecture makes so much sense now.
+
+What is the longest text you have ever tried to feed into an AI model?
+
+#MachineLearning #DeepLearning #ArtificialIntelligence #LearningInPublic #Python
