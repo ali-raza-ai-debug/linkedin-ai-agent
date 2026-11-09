@@ -1,0 +1,29 @@
+My neural network code ran without any errors.
+
+Yet, the loss refused to go down.
+
+As I dive deeper into Deep Learning from my desk here in Pakistan, I am learning that the most dangerous bugs do not crash your program.
+
+They are completely silent.
+
+Here are two common mistakes beginners make when training neural networks:
+
+1. Forgetting to clear gradients
+
+In PyTorch, if you forget to call zero_grad before your backward pass, gradients accumulate from the previous step. 
+
+Your code runs smoothly, but your updates are completely ruined.
+
+2. The weight symmetry trap
+
+If you initialize all your weights to zero, every neuron does the exact same thing during backpropagation.
+
+They learn together and update together. 
+
+Instead of learning complex features, your network just duplicates the same output.
+
+Building AI models is much harder than just writing Python code. 
+
+What is the trickiest bug you have run into while training a model?
+
+#DeepLearning #MachineLearning #ArtificialIntelligence #Python #LearningInPublic
