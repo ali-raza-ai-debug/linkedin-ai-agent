@@ -115,7 +115,8 @@
     "phase": "LLMs",
     "topic": "Transformers: the idea that changed AI",
     "style": "explainer",
-    "posted": false
+    "posted": true,
+    "posted_on": "2026-11-10"
   },
   {
     "id": 16,

@@ -1,0 +1,23 @@
+What actually powers ChatGPT under the hood?
+
+As I continue my journey of learning LLMs in public, one core idea keeps coming up everywhere. 
+
+It is the Transformer architecture.
+
+Before this came along, older models processed text sequentially, step by step. That made it tricky to handle long text efficiently.
+
+Transformers changed the game with a concept called self-attention.
+
+This mechanism allows the model to process sequences while capturing long-range context efficiently. 
+
+Instead of looking at words in isolation, it understands how words relate to each other across an entire piece of text. 
+
+By using multi-head attention and feed-forward networks, Transformers handle sequential data with remarkable efficiency.
+
+Today, variations of this architecture serve as the foundation for modern generative AI, powering tools like ChatGPT, Claude, and BERT.
+
+I am still studying the details, but it is amazing to see how one architectural shift unlocked the AI boom we see today.
+
+What was the key concept that made LLMs click for you?
+
+#MachineLearning #DeepLearning #LLMs #AI #Transformers #GenerativeAI
