@@ -1,0 +1,29 @@
+AI does not see words the way you and I do.
+
+When I started diving deeper into LLMs, this concept was a huge lightbulb moment for me.
+
+Large language models do not process whole sentences at once. 
+
+Instead, they break text down into small building blocks called tokens.
+
+A token can be a single character, a partial word, or a full word. 
+
+Even spaces and punctuation marks count as tokens! 🧩
+
+Here is a quick rule of thumb for the math:
+
+In English, 1 token is roughly 4 characters, or about 0.75 words. 
+
+So 100 tokens translate to about 75 words.
+
+This is why AI context windows are measured in tokens rather than words. 
+
+For example, a 1-million-token context window can process roughly 750,000 words. 
+
+That is the equivalent of feeding the AI about ten novels at once! 📚
+
+Understanding tokens makes working with AI models and costs so much clearer.
+
+Did you know that spaces and punctuation counted as tokens when you first learned about AI?
+
+#AI #MachineLearning #LLMs #LearnInPublic #DataScience #Python
