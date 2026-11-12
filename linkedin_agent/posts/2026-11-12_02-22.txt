@@ -1,0 +1,28 @@
+Ever wondered how ChatGPT actually writes full paragraphs so fast?
+
+As I continue my journey of learning LLMs, I realized the core secret is surprisingly simple.
+
+It all comes down to next-token prediction.
+
+Think of an LLM as a superpowered auto-complete loop. 🤖
+
+The model does not write whole sentences at once. 
+
+Instead, it guesses the single best next token, appends it to your prompt, and repeats this process over and over to build fluent text.
+
+So, what is a token? 
+
+It is not always a full word. A token can be a complete word like "cat", a fragment like "un" or "ing", or even a single punctuation mark.
+
+As a quick rule of thumb:
+One token equals roughly 4 characters, or about 0.75 English words. That means a standard paragraph takes around 100 tokens.
+
+Understanding this loop also helped me see why models hallucinate.
+
+Because LLMs generate text by predicting probable next tokens rather than retrieving facts, fabrications tend to happen around precise details like exact names, dates, and statistics. 💡
+
+It is fascinating how predicting one token at a time can create such natural conversations!
+
+How did you first imagine LLMs generated text before learning about tokens?
+
+#MachineLearning #DeepLearning #LLMs #ArtificialIntelligence #LearningInPublic #AI

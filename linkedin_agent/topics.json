@@ -131,7 +131,8 @@
     "phase": "LLMs",
     "topic": "How LLMs actually generate text: next-token prediction",
     "style": "explainer",
-    "posted": false
+    "posted": true,
+    "posted_on": "2026-11-12"
   },
   {
     "id": 18,
