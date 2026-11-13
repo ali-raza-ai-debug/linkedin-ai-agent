@@ -139,7 +139,8 @@
     "phase": "LLMs",
     "topic": "Temperature, context window and hallucination",
     "style": "explainer",
-    "posted": false
+    "posted": true,
+    "posted_on": "2026-11-13"
   },
   {
     "id": 19,

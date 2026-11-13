@@ -1,0 +1,23 @@
+Most people think setting AI temperature to zero completely stops hallucinations.
+
+It actually does not.
+
+When we set temperature to 0, the model becomes deterministic.
+It always picks the most likely next word.
+
+But research shows this can trap the model in repetitive loops.
+It gets stuck in high-probability word patterns that it cannot escape, which can actually cause errors.
+
+Another big cause of hallucinations is the context window limit.
+
+When a long conversation exceeds this limit, earlier details drop out of the working memory.
+Instead of saying it forgot, the AI tries to fill the gap with plausible-sounding guesses.
+
+And if you raise the temperature too high, the problem gets much worse.
+Recent tests on the Qwen3-14B model showed that raising the temperature from 0.3 to 0.9 caused the hallucination rate to jump from 22 percent to 72 percent.
+
+I am exploring how these settings work while learning LLMs in public here in Pakistan.
+
+What is the highest temperature you usually use for your prompts?
+
+#MachineLearning #ArtificialIntelligence #LargeLanguageModels #DeepLearning #LearningInPublic
