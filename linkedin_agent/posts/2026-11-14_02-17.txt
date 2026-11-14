@@ -1,0 +1,31 @@
+Ever wondered how AI answers questions about private company files without making stuff up? 💡
+
+As I continue my journey learning LLMs, two key terms keep coming up: Embeddings and RAG.
+
+Here is how I understand them in simple terms.
+
+First, what are Embeddings?
+
+AI models do not read words the way humans do. They understand numbers.
+
+Embeddings convert text into numerical values, allowing the AI to search databases and measure which ideas are closest in meaning.
+
+Second, what is RAG?
+
+RAG stands for Retrieval-Augmented Generation.
+
+Instead of relying only on what it learned in the past, RAG connects an AI directly to fresh, company-specific documents.
+
+By turning text into embeddings, the system searches internal databases for the most relevant context before generating an answer.
+
+This dramatically reduces inaccurate or outdated responses.
+
+For example, companies like DoorDash use RAG chatbots to instantly pull delivery policies and improve customer support experiences. 📚
+
+It is basically like giving the AI an open-book test instead of forcing it to answer from memory.
+
+I am really enjoying learning how these pieces fit together in real-world AI applications. 🚀
+
+Have you built or used a RAG system yet? I would love to hear your experience!
+
+#MachineLearning #LLMs #ArtificialIntelligence #LearningInPublic #DeepLearning

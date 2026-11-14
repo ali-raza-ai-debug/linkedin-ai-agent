@@ -147,7 +147,8 @@
     "phase": "LLMs",
     "topic": "Embeddings and RAG explained simply",
     "style": "explainer",
-    "posted": false
+    "posted": true,
+    "posted_on": "2026-11-14"
   },
   {
     "id": 20,
