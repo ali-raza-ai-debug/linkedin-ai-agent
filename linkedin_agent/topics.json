@@ -155,7 +155,8 @@
     "phase": "LLMs",
     "topic": "My first API call to an LLM",
     "style": "build",
-    "posted": false
+    "posted": true,
+    "posted_on": "2026-11-15"
   },
   {
     "id": 21,

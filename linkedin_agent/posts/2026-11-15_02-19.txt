@@ -1,0 +1,24 @@
+I finally sent my first Python request to an LLM API. 🚀
+
+As part of my journey learning LLMs in public, taking this step was a huge milestone for me.
+
+Writing the code was simple, but looking at what happens behind the scenes was the best part.
+
+I learned that the model does not actually read plain text directly.
+
+Instead, it breaks down the prompt into statistical units called tokens to generate a response.
+
+When the API sent the response back, it also included detailed usage metadata in the payload.
+
+It gave me an exact breakdown of:
+- Prompt tokens (my input)
+- Completion tokens (the AI output)
+- Total tokens used
+
+Seeing this data helped me understand how models process text and track usage in real time.
+
+Every small step is making the world of generative AI feel more practical and clear. 💡
+
+What was your biggest takeaway when you made your first LLM API call?
+
+#MachineLearning #LLMs #Python #ArtificialIntelligence #BuildInPublic #LearningInPublic
