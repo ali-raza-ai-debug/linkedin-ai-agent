@@ -1,0 +1,24 @@
+Why do AI agents sometimes feel like they have amnesia?
+
+Without memory, an AI agent treats every single interaction as though it is its very first time encountering you.
+
+Imagine talking to a helpful assistant, but every time you ask a follow-up question, it completely forgets what you just discussed.
+
+That is frustrating to use. And it is a huge limitation for building useful applications.
+
+As I am learning about AI agents, I realized that memory is what separates a simple prompt-response chatbot from a true autonomous agent.
+
+Recent research categorizes agent memory into three main types:
+Factual memory
+Experiential memory
+Working memory
+
+When production agents use these multiple types of memory together, they show much better task completion rates across multi-session benchmarks.
+
+Instead of just remembering facts, advanced agents can learn from past experiences and keep track of ongoing tasks.
+
+This is a fascinating shift in how we build with AI.
+
+How are you currently handling state and memory in your AI projects?
+
+#AIAgents #MachineLearning #DeepLearning #Python #ArtificialIntelligence #LearningInPublic
