@@ -1,0 +1,28 @@
+I am letting an AI agent draft my LinkedIn posts now. 🤖
+
+As part of my project learning series, I decided to build a simple writing agent using Python and LLMs.
+
+Did you know that over 54 percent of long-form LinkedIn posts are already AI-assisted?
+
+Content creation is actually leading the wave of generative AI adoption right now.
+
+So instead of just reading tutorials about AI agents, I wanted to build one step by step.
+
+Here is how my agent works:
+
+1. I input my raw learning notes and topic.
+2. The agent structures the main ideas simply.
+3. It formats the text to be short and easy to read on mobile.
+4. I review, edit, and share it.
+
+My goal is not to replace my own voice.
+
+It is just to speed up my drafting while I focus on learning deep learning and agentic workflows.
+
+Building this project taught me a lot about prompt constraints and managing LLM outputs.
+
+There is still a lot to tweak, but building in public makes learning so much more fun. 🚀
+
+Have you built any simple AI tools to help with your daily routine?
+
+#MachineLearning #ArtificialIntelligence #Python #AIAgents #BuildInPublic #LLMs

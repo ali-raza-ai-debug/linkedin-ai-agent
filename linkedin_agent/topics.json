@@ -203,7 +203,8 @@
     "phase": "Projects",
     "topic": "I'm building an AI agent that writes my LinkedIn posts",
     "style": "build",
-    "posted": false
+    "posted": true,
+    "posted_on": "2026-11-21"
   },
   {
     "id": 27,
